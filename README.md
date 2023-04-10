@@ -1,4 +1,4 @@
-# foundation
+# miami-landing
 ### [Site link](https://o-kozakovskyj.github.io/miami-landing/)
 Layout supports all mobile and desktop versions
 ### The tech stack is:
