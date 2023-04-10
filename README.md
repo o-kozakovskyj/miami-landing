@@ -1,5 +1,5 @@
 # miami-landing
-### [Site link](https://master--cosmic-dusk-17b16c.netlify.app/)
+### [Site link](https://miami-landing.netlify.app/)
 Layout supports all mobile and desktop versions
 ### The tech stack is:
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
