@@ -1,5 +1,5 @@
 # foundation
-### [Site link](https://o-kozakovskyj.github.io/foundation/)
+### [Site link](https://o-kozakovskyj.github.io/miami-landing/)
 Layout supports all mobile and desktop versions
 ### The tech stack is:
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
